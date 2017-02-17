@@ -1,9 +1,7 @@
-#include <stdlib>
-using namespace std; 
+#include <iostream>
 
-
-void main(){
-  int a= 1;
-  cout << a;
-
+int main()
+{
+	std::cout << "Hello World!\n";
+	return 0;
 }
